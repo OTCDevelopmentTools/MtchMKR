@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "kADb+cNDDIVx7WA0D0QDBEYzQjHp/+rWvD8pO8ApUOQ=",
+  "Source": "MtchMKRAPI",
+  "BasePath": "_content/MtchMKRAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MtchMKRAPI\\wwwroot",
+      "Source": "MtchMKRAPI",
+      "ContentRoot": "F:\\MtchMKR Project\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\wwwroot\\",
+      "BasePath": "_content/MtchMKRAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\MtchMKR Project\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\wwwroot\\Images\\download.jpg",
+      "SourceId": "MtchMKRAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\MtchMKR Project\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\wwwroot\\",
+      "BasePath": "_content/MtchMKRAPI",
+      "RelativePath": "Images/download.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\download.jpg"
+    },
+    {
+      "Identity": "F:\\MtchMKR Project\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\wwwroot\\Images\\download1.jpg",
+      "SourceId": "MtchMKRAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\MtchMKR Project\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\wwwroot\\",
+      "BasePath": "_content/MtchMKRAPI",
+      "RelativePath": "Images/download1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\download1.jpg"
+    },
+    {
+      "Identity": "F:\\MtchMKR Project\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\wwwroot\\Images\\image4.png",
+      "SourceId": "MtchMKRAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\MtchMKR Project\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\wwwroot\\",
+      "BasePath": "_content/MtchMKRAPI",
+      "RelativePath": "Images/image4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\image4.png"
+    },
+    {
+      "Identity": "F:\\MtchMKR Project\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\wwwroot\\Images\\images.png",
+      "SourceId": "MtchMKRAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\MtchMKR Project\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\wwwroot\\",
+      "BasePath": "_content/MtchMKRAPI",
+      "RelativePath": "Images/images.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\images.png"
+    }
+  ]
+}

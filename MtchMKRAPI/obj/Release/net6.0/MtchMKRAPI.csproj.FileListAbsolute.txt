@@ -1,0 +1,214 @@
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\appsettings.Development.json
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\appsettings.json
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\MtchMKRAPI.staticwebassets.runtime.json
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\MtchMKRAPI.exe
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\MtchMKRAPI.deps.json
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\MtchMKRAPI.runtimeconfig.json
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\MtchMKRAPI.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\ref\MtchMKRAPI.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\MtchMKRAPI.pdb
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\EntityFramework.SqlServer.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\EntityFramework.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.Identity.Client.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.OpenApi.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Newtonsoft.Json.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.CodeDom.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Data.SqlClient.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Drawing.Common.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Runtime.Caching.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Security.Permissions.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Windows.Extensions.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.AssemblyInfoInputs.cache
+F:\Project\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.AssemblyInfo.cs
+F:\Project\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.csproj.CoreCompileInputs.cache
+F:\Project\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Project\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Project\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\staticwebassets.build.json
+F:\Project\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\staticwebassets.development.json
+F:\Project\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\scopedcss\bundle\MtchMKRAPI.styles.css
+F:\Project\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.csproj.CopyComplete
+F:\Project\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\ref\MtchMKRAPI.dll
+F:\Project\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.pdb
+F:\Project\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.genruntimeconfig.cache
+F:\Project\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.csproj.AssemblyReference.cache
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.csproj.AssemblyReference.cache
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.AssemblyInfoInputs.cache
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.AssemblyInfo.cs
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.csproj.CoreCompileInputs.cache
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.pdb
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\appsettings.Development.json
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\appsettings.json
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\MtchMKRAPI.staticwebassets.runtime.json
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\MtchMKRAPI.exe
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\MtchMKRAPI.deps.json
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\MtchMKRAPI.runtimeconfig.json
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\MtchMKRAPI.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\MtchMKRAPI.pdb
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\EntityFramework.SqlServer.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\EntityFramework.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.Identity.Client.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.OpenApi.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Newtonsoft.Json.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.CodeDom.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Data.SqlClient.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Drawing.Common.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Runtime.Caching.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Security.Permissions.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Windows.Extensions.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\staticwebassets.build.json
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\staticwebassets.development.json
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\scopedcss\bundle\MtchMKRAPI.styles.css
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.csproj.CopyComplete
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\refint\MtchMKRAPI.dll
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.genruntimeconfig.cache
+E:\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\ref\MtchMKRAPI.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\appsettings.Development.json
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\appsettings.json
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\MtchMKRAPI.staticwebassets.runtime.json
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\MtchMKRAPI.exe
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\MtchMKRAPI.deps.json
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\MtchMKRAPI.runtimeconfig.json
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\MtchMKRAPI.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\MtchMKRAPI.pdb
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\CorePush.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\EntityFramework.SqlServer.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\EntityFramework.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.Identity.Client.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.OpenApi.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Newtonsoft.Json.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\BouncyCastle.Crypto.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.CodeDom.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Data.SqlClient.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Drawing.Common.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Runtime.Caching.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Security.Permissions.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\System.Windows.Extensions.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.csproj.AssemblyReference.cache
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.AssemblyInfoInputs.cache
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.AssemblyInfo.cs
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.csproj.CoreCompileInputs.cache
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\staticwebassets\msbuild.MtchMKRAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\staticwebassets\msbuild.build.MtchMKRAPI.props
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.MtchMKRAPI.props
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.MtchMKRAPI.props
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\staticwebassets.pack.json
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\staticwebassets.build.json
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\staticwebassets.development.json
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\scopedcss\bundle\MtchMKRAPI.styles.css
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.csproj.CopyComplete
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\refint\MtchMKRAPI.dll
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.pdb
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\MtchMKRAPI.genruntimeconfig.cache
+F:\MtchMKR Project\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\MtchMKRAPI\obj\Release\net6.0\ref\MtchMKRAPI.dll

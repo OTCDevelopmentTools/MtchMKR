@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\MtchMKR Project\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\wwwroot\\Images\\download.jpg",
+      "PackagePath": "staticwebassets\\Images\\download.jpg"
+    },
+    {
+      "Id": "F:\\MtchMKR Project\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\wwwroot\\Images\\download1.jpg",
+      "PackagePath": "staticwebassets\\Images\\download1.jpg"
+    },
+    {
+      "Id": "F:\\MtchMKR Project\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\wwwroot\\Images\\image4.png",
+      "PackagePath": "staticwebassets\\Images\\image4.png"
+    },
+    {
+      "Id": "F:\\MtchMKR Project\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\MtchMKRAPI\\wwwroot\\Images\\images.png",
+      "PackagePath": "staticwebassets\\Images\\images.png"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.MtchMKRAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.MtchMKRAPI.props",
+      "PackagePath": "build\\MtchMKRAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MtchMKRAPI.props",
+      "PackagePath": "buildMultiTargeting\\MtchMKRAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.MtchMKRAPI.props",
+      "PackagePath": "buildTransitive\\MtchMKRAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
