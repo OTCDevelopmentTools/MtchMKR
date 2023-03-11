@@ -4,7 +4,7 @@ using MtchMKRAPI.Data;
 using MtchMKRAPI.Data.Entities;
 using MtchMKRAPI.Services;
 using System.Data.Entity;
-
+using System.Linq;
 
 namespace MtchMKRAPI.Controllers
 {
@@ -429,11 +429,13 @@ namespace MtchMKRAPI.Controllers
         {
             try
             {
-                var user = _mtckMKRDbContextt.users.Where(p => p.UserId == userID).FirstOrDefault();
-                var pendingMatches = _mtckMKRDbContextt.PendingMatchDetails.Where(p => p.UserID == userID).ToList();
-                pendingMatches = pendingMatches.Where(u => u.Name != user.Name).ToList();
+                var result = _mtckMKRDbContextt.Set<PendingMatchDetail>().FromSqlRaw("exec [dbo].[getPendingMatchesByUserID]  @userId='" + userID + "'").ToList<PendingMatchDetail>();
+            
+                // var user = _mtckMKRDbContextt.users.Where(p => p.UserId == userID).FirstOrDefault();
+                //var pendingMatches = _mtckMKRDbContextt.PendingMatchDetails.Where(p => p.UserID == userID).ToList();
+                //pendingMatches = pendingMatches.Where(u => u.Name != user.Name).ToList();
 
-                return Ok(pendingMatches);
+                return Ok(result);
             }
             catch (Exception)
             {
@@ -446,7 +448,10 @@ namespace MtchMKRAPI.Controllers
         //Added for New Logic to send match request to multiple users 20 JAN 23
         public async Task<bool> PostAsync(MatchCreation match)
         {
-
+            var dateTime = match.MatchDate;
+            var dt1 = String.Format("{0:f}", match.MatchDate);
+            var loc = _mtckMKRDbContextt.locations.Where(p => p.LocationId == match.LocationId).FirstOrDefault();
+            var locName = loc.Location;
             bool flag = false;
             int val;
             try
@@ -470,12 +475,12 @@ namespace MtchMKRAPI.Controllers
                    // Added code for Push Notification on 17 Jan
 
                    NotificationModel notificationModel = new NotificationModel();
-                    var userDeviceInfo = _mtckMKRDbContextt.userDeviceInfos.Where(x => x.UserId == requserId).FirstOrDefault();
+                   var userDeviceInfo = _mtckMKRDbContextt.userDeviceInfos.Where(x => x.UserId == requserId).FirstOrDefault();
                     if (userDeviceInfo != null)
                     {
                         notificationModel.DeviceToken = userDeviceInfo.DeviceToken;
                         notificationModel.Title = "MtchMKR Notification";
-                        notificationModel.Body = "You have a Match Request from MtchMKR App";
+                        notificationModel.Body = "You have a Match Request from MtchMKR App on  "+ dt1 + "at "    + loc +" ";
                         var result = await _notificationService.SendNotification(notificationModel);
 
                     }
